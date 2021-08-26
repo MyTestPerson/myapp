@@ -1,0 +1,49 @@
+
+FontAwesomeIconView:hover {
+    -fx-cursor: hand;
+}
+
+
+
+.main {
+    -fx-background-color: #390075;
+}
+
+
+
+.header {
+    -fx-background-color: #5300a3;
+}
+
+
+
+.min-box {
+    -fx-background-color: #5300a3;
+}
+.min-box:hover {
+    -fx-background-color: #390075;
+    -fx-cursor: hand;
+}
+
+
+
+.close-box {
+    -fx-background-color: #5300a3;
+}
+.close-box:hover {
+    -fx-background-color: #ff0000;
+    -fx-cursor: hand;
+}
+
+
+
+.authorization-box {
+    -fx-background-color: #5d40c5;
+}
+
+.icon-box {
+    -fx-background-color: #4b5de6;
+}
+
+
+
